@@ -1,0 +1,9 @@
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\itoan\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
